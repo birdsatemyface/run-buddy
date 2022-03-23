@@ -9,6 +9,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+/* HEADER STYLES START */
 header {
     padding: 20px 35px;
     background-color: #39a6b3;
@@ -41,7 +42,13 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+/* HEADER STYLES END */
 
+section {
+    padding: 60px;
+}
+
+/* FOOTER STYLES START */
 footer {
     background: #fce138;
     width: 100%;
@@ -64,12 +71,9 @@ footer div {
 footer a {
     color: #024e76;
 }
+/* FOOTER STYLES END */
 
-section {
-    padding: 60px;
-}
-
-/* Hero Styling Start */
+/* HERO STYLES START */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -115,4 +119,4 @@ section {
     font-size: 16px;
 }
 
-/* Hero styling end*/
+/* HERO STYLES END */
