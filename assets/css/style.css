@@ -1,3 +1,5 @@
+/*style sheet for run-buddy homepage*/
+
 * {
     margin: 0;
     padding: 0;
@@ -117,7 +119,7 @@ section {
 }
 /* HERO STYLES END */
 
-/* WHAT YOU DO STYLES START */
+/* WHAT DO STYLES START */
 .intro {
     text-align: center;
 }
